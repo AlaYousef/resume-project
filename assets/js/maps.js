@@ -6,7 +6,7 @@ function initMap() {
             lng: -33.134766
         }
     });
-
+//create marker
     var labels = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
 
     var locations = [
